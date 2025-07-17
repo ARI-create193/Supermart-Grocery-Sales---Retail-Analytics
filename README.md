@@ -1,5 +1,3 @@
-# Supermart-Grocery-Sales---Retail-Analytics
-
 # 🛒 Supermart Grocery Sales Analytics
 
 A simple data science project that analyzes grocery sales data and predicts future sales using machine learning. Built with Python and Gradio for an interactive web interface.
