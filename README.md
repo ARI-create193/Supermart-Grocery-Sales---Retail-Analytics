@@ -83,7 +83,7 @@ The Gradio interface will automatically open in your browser at `http://127.0.0.
 
 **File**: `supermart_sales.csv` (included in repo)
 
-**Source**: [Kaggle - Supermart Grocery Sales Dataset](https://www.kaggle.com/datasets/mohanavamsi/supermart-grocery-sales-retail-analytics-dataset)
+**Source**: [Kaggle - Supermart Grocery Sales Dataset](https://www.kaggle.com/datasets/mohamedharris/supermart-grocery-sales-retail-analytics-dataset)
 
 **Columns**:
 - Order ID, Order Date
@@ -111,6 +111,8 @@ supermart-analytics/
 ├── requirements.txt           # Dependencies
 ├── README.md                 # This file
 ├── supermart_sales.csv       # Dataset
+├── Output                   # Output Screenshot
+
              
 ```
 
@@ -118,4 +120,4 @@ supermart-analytics/
 
 *Aryan Kaminwar* - aryankaminwar@gmailcom
 
-**GitHub**: [https://github.com/yourusername/supermart-analytics](https://github.com/yourusername/supermart-analytics)
+**GitHub**: [Supermart Grocery Sales - Retail Analysis ](https://github.com/ARI-create193/Supermart-Grocery-Sales---Retail-Analytics/tree/main)
