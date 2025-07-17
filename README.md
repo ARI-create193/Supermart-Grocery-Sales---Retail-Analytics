@@ -116,10 +116,6 @@ supermart-analytics/
 
 ## 📧 Contact
 
-**Your Name** - .com
+*Aryan Kaminwar* - aryankaminwar@gmailcom
 
 **GitHub**: [https://github.com/yourusername/supermart-analytics](https://github.com/yourusername/supermart-analytics)
-
----
-
-⭐ **Like this project? Give it a star!**
