@@ -81,7 +81,7 @@ The Gradio interface will automatically open in your browser at `http://127.0.0.
 
 ## 📊 Dataset
 
-**File**: `supermart_sales.csv` (included in repo)
+**File**: `supermart_sales.csv` (included in repository)
 
 **Source**: [Kaggle - Supermart Grocery Sales Dataset](https://www.kaggle.com/datasets/mohamedharris/supermart-grocery-sales-retail-analytics-dataset)
 
